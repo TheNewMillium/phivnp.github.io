@@ -1,0 +1,5 @@
+Game_name:Phigros-冰封世界;
+Game_key:0f35773;
+Title_img:none;
+Title_bgm:none;
+Loading_img:none;
