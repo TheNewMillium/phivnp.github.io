@@ -5,6 +5,7 @@ changeBg:Interlude-Sleep.jpg
 changeBg:none
 :灯还未熄。;
 我打开窗户，向外望去。;
+bgm:平稳之中.ogg
 changeBg:Geo-Sleep.jpg
 月亮在白莲花般的云朵里穿行。;
 从远方高塔流转而来的寒风，携着流星吹落屋檐上的雪。;
